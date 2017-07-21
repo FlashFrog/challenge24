@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_photo_gallery_image_view"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop">
+    <!--centerCrop 。这个属性值的作用是先居中放置图片，然后放大较小图片，裁剪较大图片（裁两
+头）以匹配视图。-->
+</ImageView>
